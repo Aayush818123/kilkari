@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const products = [
+ products = [
   {
     id: 1,
     name: "Kids Drawing Set",
